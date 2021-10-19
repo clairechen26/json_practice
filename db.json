@@ -8,11 +8,11 @@
   "lunch": [
     {
       "id":1,
-      "chichen"
+      "meat":"chichen"
     },
     {
-      "id:2,
-      "pork"
+      "id":2,
+      "meet":"pork"
     }
   ],
   "sport": [
