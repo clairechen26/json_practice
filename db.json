@@ -1,9 +1,5 @@
 {
   "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  
   "string": "Hello World",
   "lunch": [
     {
